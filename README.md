@@ -30,7 +30,7 @@ A production-grade **AMQP/RabbitMQ wrapper in Go** — reliable publishing, cons
 
 | Event | Year | Topic |
 |-------|------|-------|
-| GopherCon Jaipur | 2024 | Angora — Reliable RabbitMQ in Go (Flash Talk) |
+| GopherCon Jaipur | 2024 | [Angora — Reliable RabbitMQ in Go](https://tr.ee/jOrGLt3cdO) (Flash Talk) |
 
 ---
 
