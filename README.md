@@ -1,7 +1,21 @@
 # Hey, I'm Kamal Namdeo 👋
 
-**Staff Software Engineer** — 12 years building distributed systems in Go.  
-Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 — open to remote opportunities.
+**Staff / Principal Engineer** — 12 years building distributed systems in Go.  
+Worked across Europe and India, solving large-scale infrastructure problems.  
+Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 — open to remote.
+
+---
+
+## 🏢 Where I've Worked
+
+| Company | Role | Location | Domain |
+|---|---|---|---|
+| **Thomson Reuters** | Staff Engineer | Remote / Bangalore | Legal & financial data at scale |
+| **Zalando** | Staff Engineer | Berlin 🇩🇪 | Europe's largest fashion platform |
+| **MessageBird** | Principal Engineer | Amsterdam 🇳🇱 | Global CPaaS — billions of messages/month |
+| **Solaris Bank** | Staff Engineer | Berlin 🇩🇪 | Banking-as-a-service, event sourcing |
+| **HelloFresh** | Staff Engineer | Berlin 🇩🇪 | Global meal-kit logistics |
+| **General Electric** | Software Engineer | Bangalore | Industrial IoT & backend systems |
 
 ---
 
@@ -11,7 +25,7 @@ Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 �
 **Messaging:** Kafka · RabbitMQ · AMQP  
 **Infra:** Kubernetes · Docker · AWS  
 **Data:** PostgreSQL · Redis · DynamoDB  
-**Exploring:** LLM Integration · AI Infrastructure · MCP Protocol  
+**Exploring:** LLM Integration · AI Infrastructure · MCP Protocol
 
 ---
 
@@ -29,7 +43,7 @@ A production-grade **AMQP/RabbitMQ wrapper in Go** — reliable publishing, cons
 ## 🎤 Speaking
 
 | Event | Year | Topic |
-|-------|------|-------|
+|---|---|---|
 | GopherCon Jaipur | 2024 | [Angora — Reliable RabbitMQ in Go](https://tr.ee/jOrGLt3cdO) (Flash Talk) |
 
 ---
@@ -45,7 +59,6 @@ A production-grade **AMQP/RabbitMQ wrapper in Go** — reliable publishing, cons
 ## 📊 GitHub Stats
 
 ![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal-github&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-github&layout=compact&hide_border=true&langs_count=4)
 
 ---
