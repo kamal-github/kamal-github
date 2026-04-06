@@ -38,7 +38,7 @@ A production-grade **AMQP/RabbitMQ wrapper in Go** — reliable publishing, cons
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamalnamdeo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kamalnamdeo)
 [![Website](https://img.shields.io/badge/Website-kamalnamdeo.me-222222?style=flat&logo=google-chrome)](http://www.kamalnamdeo.me)
-[![Linktree](https://img.shields.io/badge/Linktree-kamalnamdeo-39E09B?style=flat&logo=linktree)](https://linktr.ee/kamalnamdeo)
+[![Linktree](https://img.shields.io/badge/Linktree-kamalnamdeo-39E09B?style=flat&logo=linktree)](https://linktr.ee/kamal.namdeo)
 
 ---
 
