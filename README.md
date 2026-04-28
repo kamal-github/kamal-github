@@ -25,7 +25,7 @@ Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 �
 **Messaging:** Kafka · RabbitMQ · AMQP  
 **Infra:** Kubernetes · Docker · AWS  
 **Data:** PostgreSQL · Redis · DynamoDB  
-**Exploring:** LLM Integration · AI Infrastructure · MCP Protocol
+**Exploring:** LLM Integration · AI Infrastructure · MCP Protocol, AI agents, Agentic Devlopement, Langchain, Langgraph
 
 ---
 
