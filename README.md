@@ -11,10 +11,11 @@ Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 �
 | Company | Role | Location | Domain |
 |---|---|---|---|
 | **Thomson Reuters** | Staff Engineer | Remote / Bangalore | Legal & financial data at scale |
-| **Zalando** | Staff Engineer | Berlin 🇩🇪 | Europe's largest fashion platform |
-| **MessageBird** | Principal Engineer | Amsterdam 🇳🇱 | Global CPaaS — billions of messages/month |
-| **Solaris Bank** | Staff Engineer | Berlin 🇩🇪 | Banking-as-a-service, event sourcing |
-| **HelloFresh** | Staff Engineer | Berlin 🇩🇪 | Global meal-kit logistics |
+| **Veeam Inc** | Staff Engineer | Remote / USA | B2B platform for M365 backup at scale |
+| **Zalando** | Senior Engineer | Berlin 🇩🇪 | Europe's largest fashion platform |
+| **MessageBird** | Senior Engineer | Amsterdam 🇳🇱 | Global CPaaS — billions of messages/month |
+| **Solaris Bank** | Principal Engineer | Berlin 🇩🇪 | Banking-as-a-service, event sourcing |
+| **HelloFresh** | Software Engineer | Berlin 🇩🇪 | Global meal-kit logistics |
 | **General Electric** | Software Engineer | Bangalore | Industrial IoT & backend systems |
 
 ---
