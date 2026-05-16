@@ -2,7 +2,7 @@
 
 **Staff / Principal Engineer** — 12 years building distributed systems in Go.  
 Worked across Europe and India, solving large-scale infrastructure problems.  
-Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 — open to remote.
+Currently exploring AI/LLM infrastructure. Based in **Bangalore, India** 🇮🇳 — open to remote.
 
 ---
 
