@@ -22,7 +22,7 @@ Currently exploring AI/LLM infrastructure. Based in **Indore, India** 🇮🇳 �
 
 ## 🔧 What I Work With
 
-**Core:** Go · Distributed Systems · Event-driven Architecture  
+**Core:** Go · Distributed Systems · Event-driven Architecture, AI Agent, RAG, LangChain, LangGraph, VectorDBs
 **Messaging:** Kafka · RabbitMQ · AMQP  
 **Infra:** Kubernetes · Docker · AWS  
 **Data:** PostgreSQL · Redis · DynamoDB  
