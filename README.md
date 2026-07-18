@@ -41,7 +41,10 @@ A production-grade **AMQP/RabbitMQ wrapper in Go** — reliable publishing, cons
 
 ---
 
-## 🎤 Speaking
+## Blog
+[https://dev.to/kamal_namdeo](https://dev.to/kamal_namdeo)
+
+## 🎤 Speaker
 
 | Event | Year | Topic |
 |---|---|---|
